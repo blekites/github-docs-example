@@ -52,7 +52,7 @@ else
   puts "The factorial of #{number} is #{result}."
 end
 ```
-- Make note of where the backtick button is located.
+- Make note of where the backtick keyboard key is located.
 - It should appear above the tab key 
 - But it may vary based on you keyboard layout.
 
@@ -69,6 +69,12 @@ rescue ArgumentError => e
 end
 ```
 > Here is an example of using a codeblock for an error that appears in bash.
+
+## Step 2 - How to take screenshots  
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.  
+This is not to be confused with taking a photo with your phone.  
+
 
 ## Step 3 - Use Github Flavored Markdown Task Lists
 
